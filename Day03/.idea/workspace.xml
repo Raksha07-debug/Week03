@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f93744d-1d03-4305-b797-21f8dcc71eee" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Day02/src/problem_for_hashmap_hashfunction/Subarraywithzerosum/SubArraySum.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2sOjRUT8lsk9SKAcRNIm7aWLFs9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BubbleSort.executor": "Run",
+    "Application.SortApplicantsBySalary.executor": "Run",
+    "Application.SortStudentsAge.executor": "Run",
+    "Application.Sortproductprices.executor": "Run",
+    "Application.sortexamscores.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Day02-stackqueuehashmapandhashfunction",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Week03/Day01"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.SortStudentsAge">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bubblesort.sortstudentmarks.BubbleSort" />
+      <module name="Day03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bubblesort.sortstudentmarks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortApplicantsBySalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="heapsort.SortApplicantsBySalary" />
+      <module name="Day03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="heapsort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortStudentsAge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="countingsort.SortStudentsAge" />
+      <module name="Day03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="countingsort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sortproductprices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quicksort.Sortproductprices" />
+      <module name="Day03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quicksort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sortexamscores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selectionsort.sortexamscores" />
+      <module name="Day03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selectionsort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SortStudentsAge" />
+        <item itemvalue="Application.SortApplicantsBySalary" />
+        <item itemvalue="Application.Sortproductprices" />
+        <item itemvalue="Application.sortexamscores" />
+        <item itemvalue="Application.BubbleSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f93744d-1d03-4305-b797-21f8dcc71eee" name="Changes" comment="" />
+      <created>1738333510364</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738333510364</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/heapsort/SortApplicantBySalary.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
