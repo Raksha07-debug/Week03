@@ -1,7 +1,7 @@
 package com.recursiveiterativeoffibbonacci;
 
 
-class FibonacciComputation {
+public class FibonacciComputation {
 
     // Recursive method to calculate Fibonacci number
     public static int fibonacciRecursive(int n) {
