@@ -12,7 +12,7 @@ class RecursiveIterativeTest {
 
         // Loop through each test value
         for (int num : nums) {
-            System.out.println("\n===== For Number " + num + " =====");
+            System.out.println(" \n===== For Number " + num + " =====");
 
             // Measure time taken by the recursive method
             long startTime1 = System.nanoTime();
