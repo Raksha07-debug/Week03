@@ -1,4 +1,4 @@
-package com.sortinglargedataefficiently;
+package com.stringconcatenationperformance;
 
 public class StringConcatenation {
 
@@ -58,7 +58,7 @@ public class StringConcatenation {
             long timeStringBuilder = stringBuilder(count);
             System.out.println("Time taken by StringBuilder: " + timeStringBuilder / 100000.0 + "ms");
 
-            // Measure time for StringBuffer concatenation
+            // Measure time for StringBuffer concatenation.
             long timeStringBuffer = stringBuffer(count);
             System.out.println("Time taken by StringBuffer: " + timeStringBuffer / 100000.0 + "ms");
         }
