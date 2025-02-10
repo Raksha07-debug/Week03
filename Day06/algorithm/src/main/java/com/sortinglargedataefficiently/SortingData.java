@@ -19,7 +19,7 @@ public class SortingData {
                     isSwapped = true;
                 }
             }
-            // If no two elements were swapped, the array is sorted
+            // If no two elements were swapped, the array is sorted.
             if (!isSwapped) {
                 return;
             }
